@@ -2,6 +2,8 @@
 
 A Proof-of-concept of a running Symfony 6 application inside containers
 
+More information from [martinpham Sample](https://dev.to/martinpham/symfony-5-development-with-docker-4hj8)
+
 Clone the project
 
 ```shell
